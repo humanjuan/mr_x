@@ -7,11 +7,13 @@
 
 Visit the live site: [Homer's web page](https://homer.humanjuan.com)
 
-## Description
-Modern and humorous recreation of Homer Simpson's web page from the episode "The Computer Wore Menace Shoes" (Season 12, Episode 6).
+## Descripción
+Este proyecto es una recreación moderna y humorística de la mítica página web de Homero Simpson del episodio "The Computer Wore Menace Shoes" (Temporada 12, Episodio 6).
 
-## Objective
-To replicate the chaotic and funny essence of Homer Simpson's website, but with modern technologies:
+Básicamente, es una **humorada de tiempo libre** nacida del aburrimiento y el amor por los Simpsons. No tiene ninguna utilidad práctica más allá de sacar una sonrisa (o causar una convulsión visual, tal como la original).
+
+## Objetivo
+El único objetivo real es replicar la esencia caótica, bizarra y deliciosamente "mal diseñada" del sitio de Homero, pero utilizando un stack tecnológico moderno solo porque se puede:
 - React 19.0.0
 - Vite 6.3.1
 - TailwindCSS 4.1.4
